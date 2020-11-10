@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/victo/iciilyapleinsdeterminal/Platformer920/CMakeLists.txt
+  CMake is re-running because C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/generate.stamp dependency file is missing.
+  -- Selecting Windows SDK version 10.0.18362.0 to target Windows 10.0.18363.
+  CMake Error at CMakeLists.txt:33 (find_package):
+    Could not find a package configuration file provided by "SFML" with any of
+    the following names:
+  
+      SFMLConfig.cmake
+      sfml-config.cmake
+  
+    Add the installation prefix of "SFML" to CMAKE_PREFIX_PATH or set
+    "SFML_DIR" to a directory containing one of the above files.  If "SFML"
+    provides a separate development package or SDK, be sure it has been
+    installed.
+  
+  
+  -- Configuring incomplete, errors occurred!
+  See also "C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/CMakeOutput.log".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(234,5): error MSB6006: Arrêt de "cmd.exe" avec le code 1.

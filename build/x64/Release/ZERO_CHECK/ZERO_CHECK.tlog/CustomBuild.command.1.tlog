@@ -1,0 +1,10 @@
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\A963D480D090323FC4048BEE5C635AD9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/victo/iciilyapleinsdeterminal/Platformer920 -BC:/Users/victo/iciilyapleinsdeterminal/Platformer920/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/Platformer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

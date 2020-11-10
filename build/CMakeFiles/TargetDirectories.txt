@@ -1,0 +1,4 @@
+C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/DataTarget.dir
+C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/Platformer.dir
+C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/ZERO_CHECK.dir

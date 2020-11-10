@@ -1,0 +1,168 @@
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\D746CB37BD88CE8F85813002E6693523\FINAL_MUSIC.OGG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sound/Final_Music.ogg C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sound/Final_Music.ogg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\D746CB37BD88CE8F85813002E6693523\JUMP_SOUND.WAV.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sound/Jump_Sound.wav C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sound/Jump_Sound.wav
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\D746CB37BD88CE8F85813002E6693523\MUSIC_ROBOT.OGG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sound/Music_robot.ogg C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sound/Music_robot.ogg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\EC5054B410D06BCA4C886596D26FBED1\ENDROBOT.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/Endrobot.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/Endrobot.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\EC5054B410D06BCA4C886596D26FBED1\BACKGROUND.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/background.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/background.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\D8032F0C7178DEABCA563DD0C06FC103\SPRITE_JUMP03.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/hero/jump/sprite_jump03.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/hero/jump/sprite_jump03.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\D8032F0C7178DEABCA563DD0C06FC103\SPRITE_JUMP04.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/hero/jump/sprite_jump04.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/hero/jump/sprite_jump04.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\CB61ED7B5E8FFDFC026F2429A8511B2A\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/hero/move/hero1.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/hero/move/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\CB61ED7B5E8FFDFC026F2429A8511B2A\HERO2.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/hero/move/hero2.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/hero/move/hero2.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\CB61ED7B5E8FFDFC026F2429A8511B2A\HERO3.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/hero/move/hero3.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/hero/move/hero3.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\3FF364D8E4FF9BC10ADA4B3F4F8E0A8C\SPRITE_IDLE.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/hero/still/sprite_idle.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/hero/still/sprite_idle.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\EC5054B410D06BCA4C886596D26FBED1\PLATFORM.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/platform.jpg C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/platform.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\EC5054B410D06BCA4C886596D26FBED1\PLATFORM.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/platform.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/platform.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\EC5054B410D06BCA4C886596D26FBED1\PLATFORM1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/platform1.png C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/platform1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\EC5054B410D06BCA4C886596D26FBED1\WALL.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/victo/iciilyapleinsdeterminal/Platformer920/data/sprites/wall.jpg C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/data/sprites/wall.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\BUILD\CMAKEFILES\A963D480D090323FC4048BEE5C635AD9\DATATARGET.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VICTO\ICIILYAPLEINSDETERMINAL\PLATFORMER920\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/victo/iciilyapleinsdeterminal/Platformer920 -BC:/Users/victo/iciilyapleinsdeterminal/Platformer920/build --check-stamp-file C:/Users/victo/iciilyapleinsdeterminal/Platformer920/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

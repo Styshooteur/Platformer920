@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\a963d480d090323fc4048bee5c635ad9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1E687A0-7244-36D6-B943-BC271467864A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

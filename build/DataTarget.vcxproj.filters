@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\d746cb37bd88ce8f85813002e6693523\Final_Music.ogg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\d746cb37bd88ce8f85813002e6693523\Jump_Sound.wav.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\d746cb37bd88ce8f85813002e6693523\Music_robot.ogg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\ec5054b410d06bca4c886596d26fbed1\Endrobot.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\ec5054b410d06bca4c886596d26fbed1\background.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\d8032f0c7178deabca563dd0c06fc103\sprite_jump03.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\d8032f0c7178deabca563dd0c06fc103\sprite_jump04.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\cb61ed7b5e8ffdfc026f2429a8511b2a\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\cb61ed7b5e8ffdfc026f2429a8511b2a\hero2.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\cb61ed7b5e8ffdfc026f2429a8511b2a\hero3.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\3ff364d8e4ff9bc10ada4b3f4f8e0a8c\sprite_idle.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\ec5054b410d06bca4c886596d26fbed1\platform.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\ec5054b410d06bca4c886596d26fbed1\platform.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\ec5054b410d06bca4c886596d26fbed1\platform1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\ec5054b410d06bca4c886596d26fbed1\wall.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\a963d480d090323fc4048bee5c635ad9\DataTarget.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\victo\iciilyapleinsdeterminal\Platformer920\build\CMakeFiles\DataTarget" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1E687A0-7244-36D6-B943-BC271467864A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
